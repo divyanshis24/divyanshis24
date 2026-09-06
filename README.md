@@ -6,7 +6,7 @@
 
 Let's connect & build something amazing!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](https://divyanshis24.github.io)
+[![Portfolio](💼)](https://divyanshis24.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshi-sharma-11557a24a/)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshi.15903@gmail.com)
 
