@@ -1,6 +1,7 @@
 ## Divyanshi Sharma
 
 👋 Hi, I'm Divyanshi Sharma
+
 🎓 Final year student at IIT Kanpur
 
 Let's connect & build something amazing!
@@ -27,6 +28,7 @@ Let's connect & build something amazing!
 ### Toolkit
 
 **Languages** &nbsp;Python · C++ · C · SQL · Java
+
 **Backend & tools** &nbsp;Node.js · REST APIs · MongoDB · Docker · GitHub Actions · Playwright
 
 ---
