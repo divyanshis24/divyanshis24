@@ -1,5 +1,3 @@
-## Divyanshi Sharma
-
 👋 Hi, I'm Divyanshi Sharma
 
 🎓 Final year student at IIT Kanpur
